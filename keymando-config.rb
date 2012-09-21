@@ -5,10 +5,11 @@ start_at_login
 # Windows Mappings
 # -----------------------------------------------------------
 
-# Clipboard
+# Editing
 map "<Ctrl-c>", "<Cmd-c>"
 map "<Ctrl-v>", "<Cmd-v>"
 map "<Ctrl-x>", "<Cmd-x>"
+map "<Ctrl-a>", "<Cmd-a>"
 
 # Redo & Undo
 map "<Ctrl-r>", "<Cmd-r>"
